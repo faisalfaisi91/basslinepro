@@ -1,0 +1,46 @@
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:16:"incorrect_number";s:7:"doc_url";s:52:"https://stripe.com/docs/error-codes/incorrect-number";s:7:"message";s:30:"Your card number is incorrect.";s:5:"param";s:6:"number";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:13:"incorrect_cvc";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/incorrect-cvc";s:7:"message";s:39:"Your card's security code is incorrect.";s:5:"param";s:3:"cvc";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:13:"incorrect_cvc";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/incorrect-cvc";s:7:"message";s:39:"Your card's security code is incorrect.";s:5:"param";s:3:"cvc";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:15:"generic_decline";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:19:"invalid_expiry_year";s:7:"doc_url";s:55:"https://stripe.com/docs/error-codes/invalid-expiry-year";s:7:"message";s:39:"Your card's expiration year is invalid.";s:5:"param";s:8:"exp_year";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:13:"incorrect_cvc";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/incorrect-cvc";s:7:"message";s:39:"Your card's security code is incorrect.";s:5:"param";s:3:"cvc";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:16:"incorrect_number";s:7:"doc_url";s:52:"https://stripe.com/docs/error-codes/incorrect-number";s:7:"message";s:30:"Your card number is incorrect.";s:5:"param";s:6:"number";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:16:"incorrect_number";s:7:"doc_url";s:52:"https://stripe.com/docs/error-codes/incorrect-number";s:7:"message";s:30:"Your card number is incorrect.";s:5:"param";s:6:"number";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:13:"incorrect_cvc";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/incorrect-cvc";s:7:"message";s:39:"Your card's security code is incorrect.";s:5:"param";s:3:"cvc";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:15:"generic_decline";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:12:"do_not_honor";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:23:"Your card was declined.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:13:"incorrect_cvc";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/incorrect-cvc";s:7:"message";s:39:"Your card's security code is incorrect.";s:5:"param";s:3:"cvc";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:13:"incorrect_cvc";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/incorrect-cvc";s:7:"message";s:39:"Your card's security code is incorrect.";s:5:"param";s:3:"cvc";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:16:"incorrect_number";s:7:"doc_url";s:52:"https://stripe.com/docs/error-codes/incorrect-number";s:7:"message";s:30:"Your card number is incorrect.";s:5:"param";s:6:"number";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:5:{s:4:"code";s:16:"incorrect_number";s:7:"doc_url";s:52:"https://stripe.com/docs/error-codes/incorrect-number";s:7:"message";s:30:"Your card number is incorrect.";s:5:"param";s:6:"number";s:4:"type";s:10:"card_error";}}
+===========================================================================
+ Stripe Event Data Log 5 == a:1:{s:5:"error";a:6:{s:4:"code";s:13:"card_declined";s:12:"decline_code";s:19:"live_mode_test_card";s:7:"doc_url";s:49:"https://stripe.com/docs/error-codes/card-declined";s:7:"message";s:82:"Your card was declined. Your request was in live mode, but used a known test card.";s:5:"param";s:0:"";s:4:"type";s:10:"card_error";}}
+===========================================================================

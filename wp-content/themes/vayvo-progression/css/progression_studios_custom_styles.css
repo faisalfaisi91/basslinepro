@@ -1,0 +1,110 @@
+code,
+pre {
+    border: 1px solid rgba(255, 255, 255, .1);
+    background: rgba(255, 255, 255, .08);
+    overflow: auto;
+    word-wrap: break-word;
+    line-height: 1.2;
+    color: rgba(255, 255, 255, .65);
+    font-size: 14px
+}
+
+code,
+figcaption,
+pre {
+    font-size: 14px
+}
+
+del {
+    opacity: .8
+}
+
+pre {
+    display: block;
+    margin-top: 5px;
+    padding: 15px;
+    margin-bottom: 25px
+}
+
+code {
+    display: inline-block;
+    padding: 5px
+}
+
+body .gallery-item {
+    margin-top: 0;
+    position: relative;
+    margin-bottom: 25px
+}
+
+body .gallery-item img {
+    border: none!important
+}
+
+body .gallery-icon {
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+body #content-pro .gallery-caption {
+    position: relative;
+    padding: 10px;
+    font-weight: 600
+}
+
+body .wp-caption  {
+	max-width:100% !important;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.google-maps-pin h6 {
+    margin-bottom: 2px
+}
+
+.screen-reader-text {
+    display: none
+}
+
+.wp-caption img {
+    margin-bottom: 5px
+}
+
+figcaption {
+    font-weight: 500;
+    padding-bottom: 8px
+}
+
+body #content-pro .width-container-pro .wp-caption-text {
+    line-height: 1.4;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, .75)
+}
+
+p.wp-caption-text {
+    margin-bottom: 10px
+}
+
+.wp-block-separator {
+    width: 100%;
+    overflow: hidden
+}
+
+.wp-block-cover-image .aligncenter {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    color: #fff
+}
+
+body .alignnone {
+    max-width: 100%
+}
